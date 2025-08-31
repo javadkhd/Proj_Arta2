@@ -1,2 +1,2 @@
-x = 555
+x = "Asghar"
 print(x * 12)
